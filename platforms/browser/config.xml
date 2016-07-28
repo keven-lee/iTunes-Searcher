@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="" version="1.0.0" xmlns="" xmlns:cdv="">
+    <name>iTunes Searcher</name>
+    <description>
+        Search media using the iTunes Search API and play it.
+    </description>
+    <author email="" href="">
+        Keven Lee
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+    <preference name="AndroidPersistentFileLocation" value="Compatibility" />
+    <preference name="DisallowOverscroll" value="true" />
+    <preference name="StatusBarStyle" value="lightcontent" />
+</widget>
