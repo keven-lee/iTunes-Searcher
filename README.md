@@ -1,6 +1,6 @@
 iTunes Searcher
 =================================================================
-An iTunes store searcher for various media by using iTunes' API. App uses AngularJS and PhoneGap to create a hybrid mobile app.
+An iTunes store search app for various media by using the iTunes API. Built with AngularJS and PhoneGap to create a hybrid mobile app.
 
 - Search for songs, videos, and audio books using the app and instantly preview them in the app
 - Display icons, splash screens, preferences, and plugins in the config.xml for iOS and Android
