@@ -8,7 +8,7 @@ An iTunes store search app for various media by using the iTunes API. Built with
 
 ## Purpose
 
-The native iTunes store webpage is cluttered and does not provide in depth details on their products. The items are not filtered efficiently, and the user is required to download iTunes in order to view more details on their digital products. 
+The native iTunes store webpage is cluttered and does not provide an in depth detail on their products. The items are not filtered efficiently, and the user is required to download iTunes in order to view more details on their digital products. 
 
 
 ## Features
